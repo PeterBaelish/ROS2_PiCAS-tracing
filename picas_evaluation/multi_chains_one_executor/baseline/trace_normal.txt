@@ -305,9 +305,3 @@ Regular_callback3_latency 47.819000 50
 Regular_callback4_latency 13.061000 50
 Regular_callback5_latency 35.422000 50
 Regular_callback6_latency 41.983000 50
-Regular_callback1_latency 12.084000 51
-Regular_callback2_latency 22.272000 51
-Regular_callback3_latency 38.033000 51
-Regular_callback4_latency 12.026000 51
-Regular_callback5_latency 34.013000 51
-Regular_callback6_latency 41.642000 51

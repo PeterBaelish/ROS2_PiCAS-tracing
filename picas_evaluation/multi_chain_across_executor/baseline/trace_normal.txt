@@ -64,7 +64,6 @@ Regular_callback2_latency 143.049000 10
 Regular_callback4_latency 69.699000 10
 Regular_callback5_latency 80.517000 10
 Regular_callback6_latency 92.505000 10
-Regular_callback6_latency 92.505000 10
 Regular_callback3_latency 199.787000 10
 Regular_callback1_latency 37.842000 11
 Regular_callback2_latency 48.427000 11
@@ -306,15 +305,3 @@ Regular_callback3_latency 99.315000 50
 Regular_callback4_latency 27.025000 50
 Regular_callback5_latency 48.289000 50
 Regular_callback6_latency 61.347000 50
-Regular_callback1_latency 85.329000 51
-Regular_callback2_latency 103.193000 51
-Regular_callback3_latency 165.840000 51
-Regular_callback4_latency 88.290000 51
-Regular_callback5_latency 108.870000 51
-Regular_callback6_latency 139.185000 51
-Regular_callback1_latency 56.152000 52
-Regular_callback2_latency 70.779000 52
-Regular_callback3_latency 108.876000 52
-Regular_callback4_latency 66.085000 52
-Regular_callback5_latency 82.356000 52
-Regular_callback6_latency 109.912000 52
